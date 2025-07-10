@@ -12,6 +12,7 @@ I enjoy creating scalable, automated, and well-documented environments — and I
 - 🐧 Linux, Bash, SSH
 - 🐳 Docker, Docker Compose
 - 🔁 GitHub Actions (CI/CD)
+- 📦 Terraform (modular infrastructure, remote state, cloud-init)
 - 📈 Monitoring and Chaos Engineering (coming soon)
 
 ---
@@ -35,6 +36,16 @@ Deploying multiple Linux VMs behind a Load Balancer with NGINX using modular Bic
 - Load Balancer with TCP probe and instance rotation
 - Modular and reusable Bicep templates
 - Deployment tested with Azure CLI
+
+---
+### 🌐 [iac-terraform-lab](https://github.com/gil-daniel/iac-terraform-lab)  
+Provisioning a complete infrastructure on Azure using Terraform with cloud-init and modular design.
+
+- Modular setup for network, security, and compute resources
+- Remote backend with Azure Storage
+- Automated NGINX deployment via cloud-init
+- Makefile for simplified Terraform workflows
+- Clean documentation and outputs
 
 ---
 
