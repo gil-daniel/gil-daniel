@@ -50,7 +50,7 @@ Provisioning a complete infrastructure on Azure using Terraform with cloud-init,
 - Makefile for simplified Terraform workflows  
 - Clean documentation and outputs
 
-> 💡 _Now includes automated monitoring setup and future support for alerting and dashboards (Grafana integration planned)._
+> 💡 _Now includes automated monitoring setup and Grafana integration_
 
 ---
 
