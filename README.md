@@ -8,10 +8,12 @@
 - Preparing for technical interviews focused on SRE and DevOps roles
 
 ## 📂 Projects
-- [nginx-docker-lab](https://github.com/gil-daniel/nginx-docker-lab) — Complete lab using Docker and Docker Compose to deploy a custom NGINX server with multiple containers and simulated load balancing.
-- [iac-hands-on-3](https://github.com/gil-daniel/iac-hands-on-3) — Provisioning multiple Linux VMs behind an NGINX Load Balancer using modular Bicep templates.
-- [iac-ansible-k3s-rpi-lab](https://github.com/gil-daniel/iac-ansible-k3s-rpi-lab) — Automated K3s cluster deployment on Raspberry Pi + x86_64 VM with Ansible, including a full observability stack (Prometheus, Grafana, Alertmanager).
-- [terraform-azure-lab](https://github.com/gil-daniel/terraform-azure-lab) — Modular Azure infrastructure with Terraform, CI/CD, cloud-init, and integration with Grafana/Azure Monitor.
+- [ansible-k3s-cluster](https://github.com/gil-daniel/ansible-k3s-cluster) — Ansible roles to deploy K3s on a hybrid Raspberry Pi (ARM64) + x86_64 cluster, including workloads and observability stack.
+- [iac-ansible-rpi-lab](https://github.com/gil-daniel/iac-ansible-rpi-lab) — Infrastructure automation lab for Raspberry Pi using Ansible — modular, scalable, and built for experimentation.
+- [iac-terraform-lab](https://github.com/gil-daniel/iac-terraform-lab) — Provisioning a complete Azure infrastructure with Terraform, cloud-init, monitoring, and modular design.
+- [iac-hands-on-3](https://github.com/gil-daniel/iac-hands-on-3) — Deploying multiple Linux VMs behind an NGINX Load Balancer using modular Bicep templates.
+- [iac-nginx-lab](https://github.com/gil-daniel/iac-nginx-lab) — DevOps lab using Bicep to automate deployment of a secure NGINX web server on Azure, with NSG, public IP, and modular templates.
+- [nginx-docker-lab](https://github.com/gil-daniel/nginx-docker-lab) — Docker-based lab deploying a custom NGINX container with persistent volumes and orchestration via Docker Compose.
 
 
 ## 🌐 Socials:
