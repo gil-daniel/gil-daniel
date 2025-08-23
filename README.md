@@ -2,6 +2,11 @@
 🔭Hello! My name is Daniel, a DevOps and SRE enthusiast with more than 13 years in IT area.<br>I love create escalable, monitored, automated and well-documented projects, and I've been applying that on my hands-on projects.<br><br>🌱 I’m currently focusing on  IaaC (Terraform, Ansible), Observability (Azure Monitor Agent, Prometheus, Grafana), containerizition and orchestration (containerd, Kubernetes), Bare metal (ARM and x86_64 architecthures) and Cloud (Azure), Bicep, YAML, bash scripts and Makefiles as well!<br><br>⚡ Fun fact: You never saw me and Bruce Lee in the same place.
 
 
+# 📈 What I'm working on now
+- Building a high-availability Kubernetes cluster with observability stack (Prometheus, Grafana, Alertmanager)
+- Automating infrastructure provisioning with Terraform and Ansible
+- Preparing for technical interviews focused on SRE and DevOps roles
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danielgil-/) 
 
