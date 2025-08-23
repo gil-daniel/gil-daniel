@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hello! My name is Daniel, a DevOps and SRE enthusiast with more than 13 years in IT area.<br>I love create escalable, monitored, automated and well-documented projects, and I've been applying that on my hands-on projects.<br><br>🌱 I’m currently focusing on  IaaC (Terraform, Ansible), Observability (Azure Monitor Agent, Prometheus, Grafana), containerizition and orchestration (containerd, Kubernetes), Bare metal (ARM and x86_64 architecthures) and Cloud (Azure), Bicep, YAML, bash scripts and Makefiles as well!<br><br>⚡ Fun fact: You never saw me and Bruce Lee in the same place.
+🔭Hello! My name is Daniel, a DevOps and SRE enthusiast with more than 13 years in IT area.<br>I love creating escalable, monitored, automated and well-documented projects, and I've been applying that on my hands-on projects.<br><br>🌱 I’m currently focusing on  IaC (Terraform, Ansible), Observability (Azure Monitor Agent, Prometheus, Grafana), containerization and orchestration (containerd, Kubernetes), Bare metal (ARM and x86_64 architectures) and Cloud (Azure), Bicep, YAML, bash scripts and Makefiles as well!<br><br>⚡ Fun fact: You never saw me and Bruce Lee in the same place.
 
 
 ## 📈 What I'm working on now
